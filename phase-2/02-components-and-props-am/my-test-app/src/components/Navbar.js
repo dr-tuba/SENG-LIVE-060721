@@ -1,7 +1,7 @@
-function Navbar() {
+function NavBar(props) {
     return (
-        <nav>Here is my NavBar</nav>
-    );
+        <nav>NavBar Component</nav>
+    )
 }
 
-export default Navbar;
+export default NavBar;
